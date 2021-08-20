@@ -4,9 +4,8 @@ const Resume =()=>{
     return(
         <div id="container">
             <h3>Application to join frontend developers team</h3>
+            <p>Dear recruitment team,</p>
             <p>
-            Dear recruitment team,
-
                 I write this application to join the frontend developer team in your reputable company.
                 Solving problems using programming languages and tools have been a life-time passion and dream.
                 Where I have worked previously, I had verse experience managing and interacting with customers.

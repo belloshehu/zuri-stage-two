@@ -4,7 +4,7 @@ import Resume from './Resume';
 function App() {
   return (
     <div className="App"
-      style={{margin:'2.5rem', bacgroundColor: 'white'}}>
+      style={{bacgroundColor: 'white'}}>
         <Resume />
     </div>
   );
