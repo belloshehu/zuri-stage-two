@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## APPLICATION SCREENSHOT
 ![screenshot](https://user-images.githubusercontent.com/19185069/130263120-41bcdd76-15c8-40a7-975d-983020b376bd.PNG)
+## ZURI LOGOS
+![logo](https://user-images.githubusercontent.com/19185069/130264198-959ad114-e98a-4f73-9570-d4250fb990e3.png)
+![logo 2](https://user-images.githubusercontent.com/19185069/130264212-1c7e39cf-dd45-4063-9324-5022dee9e5e5.jpeg)
+
