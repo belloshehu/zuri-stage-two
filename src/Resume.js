@@ -7,7 +7,7 @@ const Resume =()=>{
             <p>
             Dear recruitment team,
 
-                I wish to apply for the position of Growth Hacker  in your reputable company.
+                I write this application to join the frontend developer team in your reputable company.
                 Solving problems using programming languages and tools have been a life-time passion and dream.
                 Where I have worked previously, I had verse experience managing and interacting with customers.
             </p>
