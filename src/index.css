@@ -5,7 +5,41 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: white;
+
 }
+p{
+  line-height: 1.5rem;
+}
+div#container{
+  background-color: rgb(60, 20, 80);
+}
+@media screen and (min-width: 500px) {
+  
+  div#container {
+    max-width: 60%;
+    margin: auto;
+    padding: 2rem;
+    text-align: left;
+  }
+  h3 {
+    font-size: 50px;
+  
+  }
+}
+@media screen and (max-width: 499px) {
+  
+  div#container {
+    margin: 1.5rem;
+    margin: auto;
+    text-align: left;
+  }
+  h3 {
+    font-size: x-large;
+  
+  }
+}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
